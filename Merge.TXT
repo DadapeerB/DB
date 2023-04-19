@@ -1,1 +1,2 @@
 This is my new merging file
+this is merge conflict
